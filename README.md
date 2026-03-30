@@ -1,8 +1,8 @@
-<h2 align="left">Hello World !, I'm Arthur, a strange 17-year-old teenager lost in this crazy world</h2>
+<h2 align="left">Hello World !, I'm Arthur, a strange 18-year-old teenager lost in this crazy world</h2>
 
 ###
 
-<p align="left">💾 Currently working on on an ai assistant<br>📚 Studying in High School<br>👨‍💻Started coding 7 years ago</p>
+<p align="left">💾 Currently working on on an ai assistant<br>📚 Studying in High School<br>👨‍💻Started coding 8 years ago</p>
 
 ###
 
